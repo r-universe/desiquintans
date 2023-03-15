@@ -1,10 +1,10 @@
 [
   {
-    "package": "electivity",
+    "package": "librarian",
     "oncran": true
   },
   {
-    "package": "librarian",
+    "package": "electivity",
     "oncran": true
   }
 ]
