@@ -13,3 +13,8 @@
 	url = https://github.com/desiquintans/librarian
 	shallow = true
 	registered = true
+[submodule "siftr"]
+	path = siftr
+	url = https://github.com/desiquintans/siftr
+	shallow = true
+	registered = true
