@@ -8,6 +8,9 @@
 [submodule "librarian"]
 	path = librarian
 	url = https://github.com/desiquintans/librarian
+[submodule "novelqualcodes"]
+	path = novelqualcodes
+	url = https://github.com/desiquintans/novelqualcodes
 [submodule "siftr"]
 	path = siftr
 	url = https://github.com/desiquintans/siftr
