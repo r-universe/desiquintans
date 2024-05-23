@@ -11,6 +11,3 @@
 [submodule "novelqualcodes"]
 	path = novelqualcodes
 	url = https://github.com/desiquintans/novelqualcodes
-[submodule "siftr"]
-	path = siftr
-	url = https://github.com/desiquintans/siftr
